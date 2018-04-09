@@ -1,7 +1,6 @@
-# 2018-2-26
-# By TimeStamp
-# cnblogs: http://www.cnblogs.com/AdaminXie
-# github: https://github.com/coneypo/Dlib_face_detection_from_camera
+# 2018-4-9
+# Author:MUUZY
+# Adapted from : github: https://github.com/coneypo/Dlib_face_detection_from_camera
 
 import dlib                     #人脸识别的库dlib
 import numpy as np              #数据处理的库numpy
